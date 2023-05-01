@@ -7,6 +7,9 @@ Esse projeto cria tabela, extrai e trata superficialmente dados da tabela de ass
 
 **Como os usuários podem começar a usar esse projeto:**
 
+1. Execute q0 para criação de tabela;
+2. Importe dados para tabela;
+3. Faça as extrações dos dados.
 
 **Onde obter ajuda com esse projeto:**
 
